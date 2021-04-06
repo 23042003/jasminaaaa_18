@@ -26,6 +26,7 @@ padding-top: 15px;
 .spotify{
 	text-align: center;
 }
+
 .eins{
 	text-align: left;
 	padding-top: 60px;
@@ -73,5 +74,20 @@ padding-top: 15px;
 
 .zehn{
 	text-align: right;
+	padding-top: 40px;
+}
+
+.elf{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.zwoelf{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.dreizehn{
+	text-align: left;
 	padding-top: 40px;
 }
