@@ -13,6 +13,7 @@ padding-top: 15px;
 
 .illustration{
 	text-align: right;
+	
 }
 
 .text1{
@@ -22,18 +23,15 @@ padding-top: 15px;
 	padding-left: 5px;
 }
 
-.hochkant{
-	transform: rotate(0deg); 
-}
-
 .spotify{
 	text-align: center;
 }
-
-.pics{
-	border-image: thick white;
+.eins{
+	text-align: left;
+	padding-top: 60px;
 }
 
 .zwei{
 	text-align: right;
+	padding-top: 40px;
 }
