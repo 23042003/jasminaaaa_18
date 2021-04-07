@@ -25,6 +25,7 @@ padding-top: 15px;
 
 .spotify{
 	text-align: center;
+	padding-top:40px;
 }
 
 .eins{
@@ -128,5 +129,55 @@ padding-top: 15px;
 
 .einundzwanzig{
 	text-align: right;
+	padding-top: 40px;
+}
+
+.zweiundzwanzig{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.dreiundzwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.vierundzwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.text2{
+	text-align: center;
+	padding-top: 40px;
+	font-size: 18px;
+	font-family: 'Kiwi Maru';
+	color: white;
+	
+}
+
+.abschlussfahrt1{
+	text-align: center;
+	width: 800px;
+	padding-top: 40px;
+}
+
+.abschlussfahrt2{
+	text-align: center;
+	padding-top: 40px;
+}
+
+.abschlussfahrt3{
+	text-align: center;
+	padding-top: 40px;
+}
+
+.abschlussfahrt4{
+	text-align: center;
+	padding-top: 40px;
+}
+
+.abschlussfahrt5{
+	text-align: center;
 	padding-top: 40px;
 }
