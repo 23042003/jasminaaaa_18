@@ -91,3 +91,42 @@ padding-top: 15px;
 	text-align: left;
 	padding-top: 40px;
 }
+
+.vierzehn{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.fuenfzehn{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.sechszehn{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.siebzehn{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.achtzehn{
+	border: solid white 11px;
+}
+
+.neunzehn{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.zwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.einundzwanzig{
+	text-align: right;
+	padding-top: 40px;
+}
