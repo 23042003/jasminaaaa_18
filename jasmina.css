@@ -157,7 +157,7 @@ padding-top: 15px;
 }
 
 .abschlussfahrt1{
-	text-align: center;
+	text-align: right;
 	width: 800px;
 	padding-top: 40px;
 }
@@ -179,5 +179,35 @@ padding-top: 15px;
 
 .abschlussfahrt5{
 	text-align: center;
+	padding-top: 40px;
+}
+
+.fuenfundzwanzig{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.sechsundzwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.siebenundzwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.achtundzwanzig{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.neunundzwanzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.vid1{
+	text-align: right;
 	padding-top: 40px;
 }
