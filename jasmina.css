@@ -26,6 +26,17 @@ padding-top: 15px;
 	padding-top: 40px;
 }
 
+.text5{
+	border: dashed red 3px;
+	text-align: center;
+	width: 180px;
+	background-color: #D0FF00;
+	color: #00D3FF;
+	animation: blinker 1s linear infinite;
+	font-family:'Kiwi Maru';
+	padding-left: 200
+	
+}
 .text3{
 	font-family: 'Kiwi Maru';
 	font-size: 50px;
@@ -40,10 +51,29 @@ padding-top: 15px;
 	border: dashed red 3px;
 	text-align: center;
 	width: 180px;
+	position: center;
 	background-color: #D0FF00;
 	color: #00D3FF;
 	animation: blinker 1s linear infinite;
 	font-family:'Kiwi Maru';
+	padding-left: 10px;
+	padding-right: 30px;
+	padding-top: 40px;
+	font-size: 25px;
+	padding-bottom: 40px;
+}
+.text5{
+	border: dashed red 3px;
+	text-align: center;
+	width: 180px;
+	background-color: #D0FF00;
+	color: #00D3FF;
+	animation: blinker 1s linear infinite;
+	font-family:'Kiwi Maru';
+	padding-left: 200px;
+	padding-top: 40px;
+	font-size: 25px;
+	padding-bottom: 40px;
 }
 
 
@@ -281,4 +311,9 @@ a{
 
 .wrapper2{
 	background-color: #1AFF00;
+}
+
+.sechsunddreizig{
+	text-align: right;
+	padding-top: 40px;
 }
