@@ -38,17 +38,6 @@ padding-top: 15px;
 	padding-top: 40px;
 }
 
-.text5{
-	border: dashed red 3px;
-	text-align: center;
-	width: 180px;
-	background-color: #D0FF00;
-	color: #00D3FF;
-	animation: blinker 1s linear infinite;
-	font-family:'Kiwi Maru';
-	padding-left: 200
-	
-}
 .text3{
 	font-family: 'Kiwi Maru';
 	font-size: 50px;
@@ -327,3 +316,6 @@ a{
 	padding-top: 40px;
 }
 
+.siebenunddreizig{
+	padding-left: 490px;
+}
