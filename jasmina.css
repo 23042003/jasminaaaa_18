@@ -60,12 +60,12 @@ padding-top: 15px;
 }
 
 .text4{
-	border: dashed red 3px;
+	border: dashed #15C8D7 3px;
 	text-align: center;
 	width: 180px;
 	position: center;
-	background-color: #D0FF00;
-	color: #00D3FF;
+	background-color: #BC0382;
+	color: #976566;
 	animation: blinker 1s linear infinite;
 	font-family:'Kiwi Maru';
 	padding-left: 15px;
@@ -74,6 +74,7 @@ padding-top: 15px;
 	font-size: 25px;
 	padding-bottom: 40px;
 }
+
 .text5{
 	border: dashed red 3px;
 	text-align: center;
@@ -82,7 +83,8 @@ padding-top: 15px;
 	color: #00D3FF;
 	animation: blinker 1s linear infinite;
 	font-family:'Kiwi Maru';
-	padding-left: 200px;
+	padding-left:15px;
+	padding-right:15px;
 	padding-top: 40px;
 	font-size: 25px;
 	padding-bottom: 40px;
@@ -98,11 +100,6 @@ padding-top: 15px;
 a{
 	text-align: center;
 	visited: green;
-}
-
-.spotify{
-	text-align: center;
-	padding-top:40px;
 }
 
 .eins{
@@ -175,7 +172,7 @@ a{
 	padding-top: 40px;
 }
 
-.fuenfzehn{
+.fuenfzehnn{
 	text-align: left;
 	padding-top: 40px;
 }
@@ -329,3 +326,4 @@ a{
 	text-align: right;
 	padding-top: 40px;
 }
+
