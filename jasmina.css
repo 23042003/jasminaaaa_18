@@ -78,7 +78,21 @@ padding-top: 15px;
 	padding-bottom: 40px;
 }
 
-
+.text6{
+	border: dashed #981F6E 3px;
+	text-align: center;
+	width: 300px;
+	position: center;
+	background-color: #00FF44;
+	color: #FF0004;
+	animation: blinker 1s linear infinite;
+	font-family:'Kiwi Maru';
+	padding-left: 15px;
+	padding-right: 30px;
+	padding-top: 40px;
+	font-size: 25px;
+	padding-bottom: 40px;
+}
 @keyframes blinker {
   50% {
     opacity: 0;
@@ -348,4 +362,26 @@ a{
 .fuenfunddreizig{
 	text-align: left;
 	padding-bottom: 40px;
+}
+
+.pics{
+	text-align: center;
+}
+
+.doggos{
+	text-align: center;
+	background-color: #7BAFB1;
+	font-family: 'Kiwi Maru';
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.texti{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.achtunddreizig{
+	padding-top: 40px;
+	padding-left: 400px;
 }
