@@ -1,4 +1,4 @@
-HI@charset "utf-8";
+@charset "utf-8";
 /* CSS Document */
 
 
@@ -332,5 +332,6 @@ a{
 	background-color: black;
 	text-align: center;
 	color: red;
-	font-family: 'Kiwi Maru'
+	font-family: 'Kiwi Maru';
+	padding-top: 40px;
 }
