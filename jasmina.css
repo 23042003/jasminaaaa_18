@@ -21,8 +21,6 @@ padding-top: 15px;
 	position: absolute;
 	padding-left: 1100px;
 	padding-top: 10px;
-	
-
 }
 
 .girlande{
@@ -332,6 +330,7 @@ a{
 button{
 	text-decoration: none;
 	padding-bottom: 0px;
+	padding: 20px;
 }
 
 a{
@@ -344,4 +343,9 @@ a{
 	color: red;
 	font-family: 'Kiwi Maru';
 	padding-top: 70px;
+}
+
+.fuenfunddreizig{
+	text-align: left;
+	padding-bottom: 40px;
 }
