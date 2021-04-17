@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+#quiz ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#quiz li {
+	margin: 0;
+	padding: 0;
+}
+
+#quiz label {
+	display: block;
+	background-color: #fffbf0;
+	border: 2px solid #e7c157;
+}
+
+#quiz label:hover {
+	background-color: #dfac20;
+}
+
+#quiz input:checked ~ label,
+#quiz input:focus ~ label  {
+	background-color: #dfac20;
+	border-color: #866a00;
+}
+
+#quiz input {
+	left: -9999px;
+	position: absolute;
+}
