@@ -326,12 +326,22 @@ a{
 	color: cadetblue;
 	text-align: center;
 	text-decoration: none;
+
 }
 
+button{
+	text-decoration: none;
+	padding-bottom: 0px;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
 .hi{
 	background-color: black;
 	text-align: center;
 	color: red;
 	font-family: 'Kiwi Maru';
-	padding-top: 40px;
+	padding-top: 70px;
 }
