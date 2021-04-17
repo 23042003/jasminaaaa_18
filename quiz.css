@@ -3,10 +3,14 @@
 
 
 h1 { 
-	background: #f1f3f4 none repeat scroll 0 0 !important;
+	background: #BF7475 none repeat scroll 0 0 !important;
 	padding: 1rem !important;
+	font-family: 'Kiwi Maru';
 }
 
+p{
+	font-family: 'Kiwi Maru';
+}
 #quiz ul {
 	list-style: none;
 	margin: 0;
@@ -20,7 +24,7 @@ h1 {
 
 #quiz label {
 	display: block;
-	background-color: #fffbf0;
+	background-color: #BF7485;
 	border: 2px solid #e7c157;
 	border-radius: 0.2em;
 	margin: 0.1em 0;
