@@ -1,4 +1,4 @@
-@charset "utf-8";
+HI@charset "utf-8";
 /* CSS Document */
 
 
@@ -320,4 +320,17 @@ a{
 .siebenunddreizig{
 	padding-left: 50px;
 	padding-top: 40px;
+}
+
+.no{
+	color: cadetblue;
+	text-align: center;
+	text-decoration: none;
+}
+
+.hi{
+	background-color: black;
+	text-align: center;
+	color: red;
+	font-family: 'Kiwi Maru'
 }
