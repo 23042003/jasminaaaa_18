@@ -174,8 +174,7 @@ a{
 	padding-top: 40px;
 }
 
-.fuenfzehnn{
-	text-align: left;
+.fuenfzehn{text-align:  left;
 	padding-top: 40px;
 }
 
@@ -490,5 +489,24 @@ p{
 .button{
 	text-align: center;
 	padding-top: 40px;
+}
 
+.neununddreizig{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.vierzig{
+	text-align: left;
+	padding-top: 40px;
+}
+
+.einundvierzig{
+	text-align: right;
+	padding-top: 40px;
+}
+
+.zweiundvierzig{
+	text-align: left;
+	padding-top: 40px;
 }
