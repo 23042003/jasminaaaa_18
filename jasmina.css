@@ -522,7 +522,16 @@ p{
 }
 
 .ende{
-	padding-top: 40px;
+	padding-top: 20px;
+	padding-bottom: 80px;
 	font-size: 30px;
 	text-align: center;
+}
+
+.text7{
+	text-align: center;
+	padding-top: px;
+	font-size: 8px;
+	font-family: 'Kiwi Maru';
+	color: white;
 }
